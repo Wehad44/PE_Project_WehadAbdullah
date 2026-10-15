@@ -1,4 +1,4 @@
-# IT-Summarize-Message-v1_2026_10_15
+# IT-Shorten-a-ticket-thread-v1_2026_10_15
 
 **Purpose:** Summarize a long ticket thread in three lines for the next technician.
 
