@@ -46,7 +46,7 @@ RULES:
 * If the input contains personal or sensitive information, do not repeat it.
 * If a variable value is missing, use its default. If it has no default, ask for it.
 * Do not add advice, instructions, or next steps unless they are explicitly supported by the input or CONTEXT.
-* After replacing identifiers, rewrite the sentence if needed so the cleaned ticket reads naturally and grammatically. Do not simply insert replacement codes into the original wording. Preserve the original technical meaning and use each replacement code consistently.
+
 
 EXPECTATION:
 - Language: [LANGUAGE] (Arabic, English, Automated, Bilingual or Mixed).
